@@ -4,8 +4,8 @@ import remove_contact
 import add_contact
 from viewcontact import view
 
-maincontact= contactload()# initialize empty list for contact book 
-print(type(maincontact))
+maincontact= []# initialize empty list for contact book 
+
 while True:
     print("Contact Book Management System")
     print("0. Exit")
