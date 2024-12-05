@@ -1,0 +1,28 @@
+Welcome to my Contact Book Management System
+                           Start
+
+
+            At first we will take empty list
+            then we make a while loop with a menu 
+            then we make a input function for input data from user
+            and we use "try and expect block for unexpected error say Error Handling
+            then write a condition accoddnig to menu 
+                       1st. condition for exit
+                       2nd. condition for add Contact
+                       3rd. condition for view Contact
+                       4th. condition for remove Contact
+                       5th. condition for search Contact
+                       6th. condition for invalid input
+
+           Accodding to condition we create multiple file for multiple condition
+                            1st. Contactbook.py for (Mainfile)
+                            2nd. add_contact.py for (add contact)
+                            3rd. viewcontact.py for (view contact)
+                            4th. remove_contact for (remove contact)
+                            5th. savecontact.py for (save contact at csv file autometically)
+                            6th. searchcontact.py for (search contact from contact book)
+            
+            Finally We connect these file each other and Run
+
+            
+                                           Finish!!!!!!!!!!!!!!!!!!
